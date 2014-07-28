@@ -1,0 +1,98 @@
+.backwrap {
+	background-color: #bbbbb9;
+	margin: 10px 10px 10px 10px;
+	height: 450px;
+	padding: 20px 0px 20px 0px;
+}
+h1 {
+	color:#020202;
+	background-color:#dfdfdb;	
+	margin: 0px 0px 10px 0px;
+	vertical-align: center;
+	text-align: left;
+}
+.phscale {
+	background-color: #dfdfdb;
+	height: 35px;
+	width: 1130px;
+	margin: 10px 0px 20px 20px;
+	padding: 20px 25px 20px 50px;
+}
+.fourteen {
+	font-size: 18px;
+	background-color: #3a7daf;
+	margin: 10px 10px 0px 10px;
+}
+.thirteen {
+	font-size: 18px;
+	background-color: #3b89b8;
+	margin: 0px 10px 0px 10px;
+}
+.twelve {
+	font-size: 18px;
+	background-color: #3994c2;
+	margin: 0px 10px 0px 10px;
+}
+.eleven {
+	font-size: 18px;
+	background-color: #4aa0c9;
+	margin: 0px 10px 0px 10px;
+}
+.ten {
+	font-size: 18px;
+	background-color: #63afd2;
+	margin: 0px 10px 0px 10px;
+}
+.nine {
+	font-size: 18px;
+	background-color: #63afd2;
+	margin: 0px 10px 0px 10px;
+}
+.eight {
+	font-size: 18px;
+	background-color: #8fc5de;
+	margin: 0px 10px 0px 10px;
+}
+.seven {
+	font-size: 18px;
+	background-color: #2daa80;
+	margin: 0px 10px 0px 10px;
+}
+span {
+	font-size: 30px;
+}
+.six {
+	font-size: 18px;
+	background-color: #e8adc3;
+	margin: 0px 10px 0px 10px;
+}
+.five {
+	font-size: 18px;
+	background-color: #e79bb6;
+	margin: 0px 10px 0px 10px;
+}
+.four {
+	font-size: 18px;
+	background-color: #e489a8;
+	margin: 0px 10px 0px 10px;
+}
+.three {
+	font-size: 18px;
+	background-color: #e1769b;
+	margin: 0px 10px 0px 10px;
+}
+.two {
+	font-size: 18px;
+	background-color: #df678d;
+	margin: 0px 10px 0px 10px;
+}
+.one {
+	font-size: 18px;
+	background-color: #dd5a81;
+	margin: 0px 10px 0px 10px;
+}
+.zero {
+	font-size: 18px;
+	background-color: #d94176;
+	margin: 0px 10px 100px 10px;
+}
