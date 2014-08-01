@@ -1,0 +1,27 @@
+h1 {
+	color: blue;
+}
+p {
+	color: green;
+}
+em {
+	color: red;
+}
+.underline {
+	color: yellow;
+	background-color: red;
+	text-decoration: underline;
+}
+.first {
+	background-color: #666666;
+	margin: auto;
+}
+.second {
+	color: black;
+	background-color: orange;
+	margin: auto;
+}
+.third {
+	background-color:red;
+	margin: auto;
+}
