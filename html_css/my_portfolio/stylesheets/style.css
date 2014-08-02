@@ -9,8 +9,11 @@ body {
 .toc {
 	background: white;
 	float: left;
+	clear: left;
 	width: 25%;
 	padding: 20px;
+	margin-top: 20px;
+	margin-left: auto;
 	box-sizing: border-box;
 }
 .blog-post {
@@ -24,5 +27,31 @@ body {
 	float: left;
 	width: 25%;
 	padding: 20px;
+	margin-top: 20px;
 	box-sizing: border-box;
 }
+.navbar {
+	list-style: none;
+	margin-bottom: 20px
+	/* margin: 0 20px;*/
+	padding: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.navbar li a {
+	background: #ccc;
+	float: left;
+	padding: 8px 20px;
+}
+/* This was to fix a problem with the ul navbar having a 0 height; but it showed that it had a 18 height.
+I don't understand the issue -- what was trying to be solved
+
+.clearfix: before,
+.clearfix: after {
+	content: " ";
+	display: table;
+}
+.clearfix: after {
+	clear: both;
+}
+*/
